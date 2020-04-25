@@ -2,7 +2,7 @@
 
 {
   const btn = document.getElementById("button");
-  const hatena = document.querySelector("p");
+  
 
   btn.addEventListener("click",()=>{
     const x=["大吉","吉","凶"];
